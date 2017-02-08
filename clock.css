@@ -1,25 +1,25 @@
 body {
-  margin: 0;
-  padding: 0;
-  color: white;
-  font-size: 30px;
-  background-color:transparent;
-  font-family: -apple-system;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 30px;
+    background-color: transparent;
+    font-family: -apple-system;
 }
 
 .clock {
-  width:100%;
-  text-align:center;
+    width: 100%;
+    text-align: center;
 }
 
 .clock hr {
-  width:15%;
+    width: 15%;
 }
 
 .time {
-	display:inline-block;
-	padding-top: 150px;
-  letter-spacing:30px;
-  text-indent:30px; /* same as letter spacing */
-  font-weight:100;
+    display: inline-block;
+    padding-top: 150px;
+    letter-spacing: 30px;
+    text-indent: 30px; /* same as letter spacing */
+    font-weight: 100;
 }
